@@ -18,4 +18,3 @@
 </p>
 <br>
 
-> Building and designing systems around data to make machines more efficient, enable data-driven decisions and improve the observability of processes.
