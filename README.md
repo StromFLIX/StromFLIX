@@ -12,6 +12,7 @@
 <img src="assets/icons/vue.svg" width="32px">
 <img src="assets/icons/mongodb.svg" width="32px">
     
+<img src="assets/icons/Microsoft_logo.svg.png" width="32px" height="32px">
 <img src="assets/icons/aws.svg" width="32px" height="32px">
 <img src="assets/icons/docker.svg" width="32px" height="32px">
 <img src="assets/icons/terraform.svg" width="32px">
