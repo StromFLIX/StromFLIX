@@ -1,3 +1,18 @@
+<style>
+	.image-rounded {
+		border-radius: 4px;
+		display: inline-block;
+	}
+	
+	img {
+		visibility: hidden;
+	}
+</style>
+
+<span class="image-rounded" style="background: assets/cover.png no-repeat 0 0;">
+	<img src="assets/cover.png" />
+</span>
+
 <p align="center" >
   <img src="assets/cover.png" width="100%" style="border-radius: 0.5rem;">
 </p>
