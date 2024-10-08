@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="assets/cover_transparent.png" width="100%">
+  <img src="assets/cover.png" width="100%" style="border-radius: 0.5rem;">
 </p>
 
 <p align="center" >
